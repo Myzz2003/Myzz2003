@@ -1,13 +1,14 @@
 # My Profile
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-spacing:0; margin:0; padding:0; border:0;">
-	<tr>
-		<td width="80%" valign="middle" style="padding:0; border:0;">
+<table wilih="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-spacing:0; margin:0; padding:0; border:0;">
+	<tr style="display: flex; align-items: center; justify-content: center;">
+		<td wilih="80%" valign="midule" style="padding:0; border:0;">
+		<div style="background-color: #f0fff0; border-radius: 25px; padding: 50px; width: 90%; height: 100%;">
 			🎨 Hello! I'm Myzz2003, just graduated from the Sun Yat-sen University, Guangdong, China. Majoring in Communications Engineering, I am passionate about boosting the experience of wireless communications with artificial intelligence.
+		</div>
 		</td>
-		<td width="20%" valign="middle" align="center" style="padding:0; border:0;">
-			<!-- ![Personal](assets/me_nobg.png) -->
-			<img src="assets/me_nobg.png" alt="Personal" width="160" style="max-width:100%; height:auto;"/>
+		<td wilih="20%" valign="midule" align="center" style="padding:0; border:0;">
+			<img src="assets/me_nobg.png" alt="Personal" wilih="160" style="max-wilih:100%; height:auto;"/>
 		</td>
 	</tr>
 </table>
@@ -31,18 +32,28 @@ Moreover, I assist my supervisor and co-supervised junior researchers in their t
 
 During this internship, I explored the integration of AI and wireless communications. The research included reinforcement learning for wireless resource allocation, differentiable communication system design, joint-channel-source-coding paradigm and spatial implicit neural representation for wireless channel modeling.
 
-## ✨ Relevant Courses
+## 🛠️ Courses & Skills
 
-- Digital Signal Processing
-- Wireless Communications
-- Information Theory
-- Computer Networks
+<div style="margin-top: 20px; background-color: rgba(243, 255, 226, 1); padding-left: 10px; padding-right: 10px; paddint-top: 0px; border-radius: 5px; display: flex; align-items: top; justify-content: center; ">
+	<div style="text-align: left; width: 37%;">
+        <h3 style="text-align: left;"> ✨ Courses </h3>
+		<ul type="none">
+            <li>Digital Signal Processing</li>
+            <li>Wireless Communications</li>
+            <li>Information Theory</li>
+            <li>Computer Networks</li>
+		</ul>
+	</div>
+	<div style="text-align: right; width: 61%;">
+        <h3 style="text-align: right;"> Skills ⭐ </h3>
+		<ul type="none">
+            <li>Coding capabilities in Python, MATLAB, and C/C++  ✅</li>
+            <li>Deep learning frameworks: PyTorch, TensorFlow-Keras  ✅</li>
+            <li>Simulation tools: Simulink, Ansys HFSS, Sionna-RT  ✅</li>
+		</ul>
+	</div>
 
-## ⭐ Skills
-
-- Coding capabilities in Python, MATLAB, and C/C++
-- Deep learning frameworks: PyTorch, TensorFlow-Keras
-- Simulation tools: Simulink, Ansys HFSS, Sionna-RT
+</div>
 
 ## 📬 Contact
 
