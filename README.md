@@ -1,11 +1,13 @@
 # My Profile
 
-<aside>
+<div>
+<div align="left" width="48%">
 🎨 Hello! I'm Myzz2003, just graduated from the Sun Yat-sen University, Guangdong, China. Majoring in Communications Engineering, I am passionate about boosting the experience of wireless communications with artificial intelligence.
-
-</aside>
-
-![Personal](assets/me_nobg.png)
+</div>
+<div align="center" width="48%">
+<!-- ![Personal](assets/me_nobg.png) -->
+<img src="assets/me_nobg.png" alt="Personal" width="200"/>
+</div>
 
 ## 🌈 About Me
 
